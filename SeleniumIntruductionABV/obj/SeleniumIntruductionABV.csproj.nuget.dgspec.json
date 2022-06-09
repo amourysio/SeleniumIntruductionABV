@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HusseinAmouri\\Desktop\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HusseinAmouri\\Desktop\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HusseinAmouri\\Desktop\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV.csproj",
+        "projectName": "SeleniumIntruductionABV",
+        "projectPath": "C:\\Users\\HusseinAmouri\\Desktop\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV.csproj",
+        "packagesPath": "C:\\Users\\HusseinAmouri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HusseinAmouri\\Desktop\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HusseinAmouri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Bitbucket": {
+              "target": "Package",
+              "version": "[1.13.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[102.0.5005.6100, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCdLP5nt3tyHdml7dSaHJKzrhmfYMKM+BdjAWkI24EseRvokTtqnkOHsRqt9j4+1aGGiar75u1zWAWazJIoaPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HusseinAmouri\\Desktop\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV\\SeleniumIntruductionABV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\bitbucket\\1.13.0\\bitbucket.1.13.0.nupkg.sha512",
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\carbon.data.protection\\1.4.0\\carbon.data.protection.1.4.0.nupkg.sha512",
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\carbon.packaging\\1.48.0\\carbon.packaging.1.48.0.nupkg.sha512",
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\carbon.storage\\3.0.0\\carbon.storage.3.0.0.nupkg.sha512",
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\carbon.versioncontrol\\2.4.0\\carbon.versioncontrol.2.4.0.nupkg.sha512",
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\carbon.versioning\\1.9.0\\carbon.versioning.1.9.0.nupkg.sha512",
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512",
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\selenium.webdriver.chromedriver\\102.0.5005.6100\\selenium.webdriver.chromedriver.102.0.5005.6100.nupkg.sha512",
+    "C:\\Users\\HusseinAmouri\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
